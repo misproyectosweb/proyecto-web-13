@@ -1,5 +1,7 @@
 # Proyecto Web 13
 
+Sitio web que muestra información para el cuidado de su mascota
+
 Este proyecto fue creado con las siguientes herramientas de nivel front-end y back-end:
 
 - **WordPress:**	Sistema de gestión de contenidos enfocado a la creación de cualquier tipo de página web
