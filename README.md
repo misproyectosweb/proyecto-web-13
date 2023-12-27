@@ -15,11 +15,11 @@ Este sitio web está creado y adaptado para ejecutarse tanto en computadoras de 
 
 El sitio web consta de las siguientes secciones:
 
-- 1.	Inicio: es la página principal del sitio web y la primera que se muestra al usuario cuando desea acceder al sitio. Contiene información de manera general acerca de los servicios que ofrece, los productos que comercializa, entre otros; así como la información necesaria para contactar, agendar y recibir los servicios de esta empresa
-- 2.	Nosotros: muestra los aspectos organizacionales, de modo general, de la empresa tales como la visión y la misión.
-- 3.	Servicios: muestra a sus clientes la gama de servicios médicos veterinarios de calidad que ofrece la clínica para el cuidado de la mascota, según sus necesidades.
-- 4.	Noticias: en esta sección del sitio web se incluyen contenidos de interés para el conocimiento y cuidado de la mascota, actualizados con frecuencia y en cada artículo se muestra un espacio para que el usuario pueda realizar sus comentarios en relación con lo que está leyendo. Además, se presentan enlaces a otros artículos a los que el usuario puede tener acceso 
-- 5.	Contacto: esta página le permite al usuario conocer y tener a la mano la información necesaria para comunicarse e interactuar con el personal de la clínica, a través de redes sociales, agendar citas por medio del formulario de contacto, horario de labores y las ubicaciones físicas tanto de la sede central como de las diversas tiendas a su disposición.
+1.	Inicio: es la página principal del sitio web y la primera que se muestra al usuario cuando desea acceder al sitio. Contiene información de manera general acerca de los servicios que ofrece, los productos que comercializa, entre otros; así como la información necesaria para contactar, agendar y recibir los servicios de esta empresa
+2.	Nosotros: muestra los aspectos organizacionales, de modo general, de la empresa tales como la visión y la misión.
+3.	Servicios: muestra a sus clientes la gama de servicios médicos veterinarios de calidad que ofrece la clínica para el cuidado de la mascota, según sus necesidades.
+4.	Noticias: en esta sección del sitio web se incluyen contenidos de interés para el conocimiento y cuidado de la mascota, actualizados con frecuencia y en cada artículo se muestra un espacio para que el usuario pueda realizar sus comentarios en relación con lo que está leyendo. Además, se presentan enlaces a otros artículos a los que el usuario puede tener acceso 
+5.	Contacto: esta página le permite al usuario conocer y tener a la mano la información necesaria para comunicarse e interactuar con el personal de la clínica, a través de redes sociales, agendar citas por medio del formulario de contacto, horario de labores y las ubicaciones físicas tanto de la sede central como de las diversas tiendas a su disposición.
 
 Entre algunas funciones importantes que incluye el sitio web están:
 
