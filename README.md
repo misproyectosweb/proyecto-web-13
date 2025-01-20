@@ -53,8 +53,8 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 ![02  Nosotros_03](https://github.com/user-attachments/assets/1b348025-8ab5-45f6-9b89-2cd1f10c9cec)
 **==========================================================================**
 ![02  Nosotros_04](https://github.com/user-attachments/assets/49d10406-b6cf-455b-9b5a-f15defd621e4)          ![02  Nosotros_05](https://github.com/user-attachments/assets/276f71b0-1549-4772-a77d-f8e3c9013094)
-**==========================================================================**
 ![02  Nosotros_06](https://github.com/user-attachments/assets/e7b21820-4027-47cd-bd01-3f889d5b0e62)          ![02  Nosotros_07](https://github.com/user-attachments/assets/d078f148-5981-4778-809f-fb5a797dd27e)
+**==========================================================================**
 **==========================================================================**
 
 **==========================================================================**
