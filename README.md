@@ -42,15 +42,9 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![01  Inicio_05](https://github.com/user-attachments/assets/ded9c12b-5427-4bf7-95cb-93fe204150bc)   ![01  Inicio_06](https://github.com/user-attachments/assets/efa02b41-2e91-469e-95f7-f9a3e8ee2dc4)
 ![01  Inicio_07](https://github.com/user-attachments/assets/b1c9ef91-ea4d-4ac8-8fdd-a353a6823667)   ![01  Inicio_08](https://github.com/user-attachments/assets/a30206e2-44f9-4a0e-a6a3-0dfbe29addbc)
-
-
-
-
-
 **==========================================================================**
-
-**==========================================================================**
-![01  Inicio_11](https://github.com/user-attachments/assets/73e13350-ebe3-402c-80de-776e8e1923c3)          ![01  Inicio_12](https://github.com/user-attachments/assets/f49870da-586e-42eb-bc9a-365f5f622514)
+![01  Inicio_09](https://github.com/user-attachments/assets/b6bad513-a23d-45b9-90e5-e84bcdc865ca)   ![01  Inicio_10](https://github.com/user-attachments/assets/3cf46904-fb79-4ae2-9cac-6f54b19f9395)
+![01  Inicio_11](https://github.com/user-attachments/assets/e34286ef-b507-4338-b007-5f49fc87fef3)   ![01  Inicio_12](https://github.com/user-attachments/assets/26425be0-100e-40fe-830b-dfb21de4f3ed)
 **==========================================================================**
 ![02  Nosotros_01](https://github.com/user-attachments/assets/3d169dc9-22c2-43f0-824e-d40b4add037d)
 **==========================================================================**
@@ -58,8 +52,8 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![02  Nosotros_03](https://github.com/user-attachments/assets/1b348025-8ab5-45f6-9b89-2cd1f10c9cec)
 **==========================================================================**
-![02  Nosotros_04](https://github.com/user-attachments/assets/49d10406-b6cf-455b-9b5a-f15defd621e4)          ![02  Nosotros_05](https://github.com/user-attachments/assets/276f71b0-1549-4772-a77d-f8e3c9013094)
-![02  Nosotros_06](https://github.com/user-attachments/assets/e7b21820-4027-47cd-bd01-3f889d5b0e62)          ![02  Nosotros_07](https://github.com/user-attachments/assets/d078f148-5981-4778-809f-fb5a797dd27e)
+![02  Nosotros_04](https://github.com/user-attachments/assets/83022db0-4045-4f46-8aa5-f63031fc625e)   ![02  Nosotros_05](https://github.com/user-attachments/assets/a3a8849b-d88b-4649-9dbf-5c396998e52f)
+![02  Nosotros_06](https://github.com/user-attachments/assets/213cbc21-bad4-4696-9756-383c61b31d79)   ![02  Nosotros_07](https://github.com/user-attachments/assets/a2bd85d4-3690-45df-bf7a-1e760ff3a1e7)
 **==========================================================================**
 ![03  Servicios_01](https://github.com/user-attachments/assets/3f5f594c-055e-44e3-864c-3f853f784a84)
 **==========================================================================**
@@ -67,8 +61,10 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![03  Servicios_03](https://github.com/user-attachments/assets/71a769b4-8bc6-437e-b92a-c7abdea541b9)
 **==========================================================================**
-![03  Servicios_04](https://github.com/user-attachments/assets/bf4c3a7f-ba58-4429-97d0-aef2a7e6b077)          ![03  Servicios_05](https://github.com/user-attachments/assets/c0587c33-eaec-4eee-82c9-a1d25a5a672e)
-![03  Servicios_06](https://github.com/user-attachments/assets/b0ae279d-8bf0-40db-9763-b2279b52e5ba)          ![03  Servicios_07](https://github.com/user-attachments/assets/76b9bdd2-6c8d-4b78-9db2-f8ccc0325fde)
+
+
+
+
 **==========================================================================**
 ![04  Noticias_01](https://github.com/user-attachments/assets/6f1b084e-55f5-4c36-acce-cbcf40f08aaf)
 **==========================================================================**
