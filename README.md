@@ -80,7 +80,7 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 ![04  Noticias_10](https://github.com/user-attachments/assets/548ad17e-04ef-4ee8-9782-4005e9d207cd)   ![04  Noticias_11](https://github.com/user-attachments/assets/1692fc46-748a-48ce-803e-49cce250e6ad)
 **==========================================================================**
 ![04  Noticias_12](https://github.com/user-attachments/assets/7899eeaa-13aa-4795-be4e-e828b1ff394f)   ![04  Noticias_13](https://github.com/user-attachments/assets/7fd3df63-e975-4e22-8826-e43b8cf493c3)
-![04  Noticias_14](https://github.com/user-attachments/assets/1bf23bc8-2b1b-4ce4-8574-10b517b328da)   ![04  Noticias_15](https://github.com/user-attachments/assets/35bbad6c-3ebc-4444-878b-17576b820eeb)
+![04  Noticias_14](https://github.com/user-attachments/assets/1bf23bc8-2b1b-4ce4-8574-10b517b328da)   ![04  Noticias_15](https://github.com/user-attachments/assets/ebdabae7-a074-4b48-9bcd-58b5de7fa370)
 **==========================================================================**
 ![05  Contacto_01](https://github.com/user-attachments/assets/76019c54-6b4e-44c4-9b2d-233cb9aa1e1f)
 **==========================================================================**
