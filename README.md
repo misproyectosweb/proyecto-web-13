@@ -52,7 +52,7 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![02  Nosotros_03](https://github.com/user-attachments/assets/1b348025-8ab5-45f6-9b89-2cd1f10c9cec)
 **==========================================================================**
-![02  Nosotros_04](https://github.com/user-attachments/assets/83022db0-4045-4f46-8aa5-f63031fc625e)   ![02  Nosotros_05](https://github.com/user-attachments/assets/a3a8849b-d88b-4649-9dbf-5c396998e52f)
+![02  Nosotros_04](https://github.com/user-attachments/assets/075124e3-aa8d-488e-8c74-e0ac4a6b7c62)   ![02  Nosotros_05](https://github.com/user-attachments/assets/a3a8849b-d88b-4649-9dbf-5c396998e52f)
 ![02  Nosotros_06](https://github.com/user-attachments/assets/213cbc21-bad4-4696-9756-383c61b31d79)   ![02  Nosotros_07](https://github.com/user-attachments/assets/a2bd85d4-3690-45df-bf7a-1e760ff3a1e7)
 **==========================================================================**
 ![03  Servicios_01](https://github.com/user-attachments/assets/3f5f594c-055e-44e3-864c-3f853f784a84)
@@ -61,10 +61,8 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![03  Servicios_03](https://github.com/user-attachments/assets/71a769b4-8bc6-437e-b92a-c7abdea541b9)
 **==========================================================================**
-
-
-
-
+![03  Servicios_04](https://github.com/user-attachments/assets/b48f8a65-768d-4e5c-ad08-ce1167d1f67d)   ![03  Servicios_05](https://github.com/user-attachments/assets/f8c180d8-2b7e-4afd-88cf-7d10678a9c30)
+![03  Servicios_06](https://github.com/user-attachments/assets/d122dbef-ea8c-4e64-b39c-d2fb724f864e)   ![03  Servicios_07](https://github.com/user-attachments/assets/7bbbe579-af09-4e03-8f0f-861ec3e8283b)
 **==========================================================================**
 ![04  Noticias_01](https://github.com/user-attachments/assets/6f1b084e-55f5-4c36-acce-cbcf40f08aaf)
 **==========================================================================**
