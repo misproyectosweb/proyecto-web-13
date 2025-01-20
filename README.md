@@ -40,11 +40,11 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![01  Inicio_04](https://github.com/user-attachments/assets/e7eb72e4-017b-412e-96fb-41247f53a35f)
 **==========================================================================**
-![01  Inicio_05](https://github.com/user-attachments/assets/c147bc9f-96a8-40a7-9140-69a86c364db1)          ![01  Inicio_06 1](https://github.com/user-attachments/assets/6b0705e5-9239-4861-bc88-e32cb85335cf)
-![01  Inicio_07 1](https://github.com/user-attachments/assets/e8556f48-08fa-4e9f-b67e-c0bed872b50e)          ![01  Inicio_08](https://github.com/user-attachments/assets/3ab19ecd-cebe-4c47-a2b7-f69f1376b137)
+![01  Inicio_05](https://github.com/user-attachments/assets/c147bc9f-96a8-40a7-9140-69a86c364db1)                    ![01  Inicio_06 1](https://github.com/user-attachments/assets/6b0705e5-9239-4861-bc88-e32cb85335cf)
+![01  Inicio_07 1](https://github.com/user-attachments/assets/e8556f48-08fa-4e9f-b67e-c0bed872b50e)                    ![01  Inicio_08](https://github.com/user-attachments/assets/3ab19ecd-cebe-4c47-a2b7-f69f1376b137)
 **==========================================================================**
-![01  Inicio_09](https://github.com/user-attachments/assets/c6b163cf-6ab0-49c1-bb5f-32b3d630b440)          ![01  Inicio_10](https://github.com/user-attachments/assets/43dfe47e-62f5-40f6-991f-dbf9c8f24e46)
-![01  Inicio_11](https://github.com/user-attachments/assets/73e13350-ebe3-402c-80de-776e8e1923c3)          ![01  Inicio_12](https://github.com/user-attachments/assets/f49870da-586e-42eb-bc9a-365f5f622514)
+![01  Inicio_09](https://github.com/user-attachments/assets/c6b163cf-6ab0-49c1-bb5f-32b3d630b440)                    ![01  Inicio_10](https://github.com/user-attachments/assets/43dfe47e-62f5-40f6-991f-dbf9c8f24e46)
+![01  Inicio_11](https://github.com/user-attachments/assets/73e13350-ebe3-402c-80de-776e8e1923c3)                    ![01  Inicio_12](https://github.com/user-attachments/assets/f49870da-586e-42eb-bc9a-365f5f622514)
 **==========================================================================**
 
 **==========================================================================**
