@@ -40,7 +40,8 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![01  Inicio_04](https://github.com/user-attachments/assets/e7eb72e4-017b-412e-96fb-41247f53a35f)
 **==========================================================================**
-![01  Inicio_05](https://github.com/user-attachments/assets/92cab770-aa5a-4e7e-a96d-afcce75f95cd)     ![01  Inicio_06](https://github.com/user-attachments/assets/4c778e7b-5a9a-46ab-a352-010f6f5e22e8)
+![01  Inicio_06 1](https://github.com/user-attachments/assets/12e2175f-e1da-4c73-89f2-35e8dc9b14b8)     ![01  Inicio_05 1](https://github.com/user-attachments/assets/beee4210-804b-4f85-9047-32c2392a5311)
+
 **==========================================================================**
 
 **==========================================================================**
