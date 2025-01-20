@@ -76,8 +76,13 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![04  Noticias_06](https://github.com/user-attachments/assets/f853cf57-bde4-4a54-9e4c-8b324e4929d0)
 **==========================================================================**
-![04  Noticias_07](https://github.com/user-attachments/assets/05f4ff04-5dc0-4963-a935-56fde946d650)          ![04  Noticias_08](https://github.com/user-attachments/assets/d3fd43bf-848f-4d3d-bee3-157c495cdd70)
-![04  Noticias_10](https://github.com/user-attachments/assets/f94e16f1-258a-45f7-a642-38170957b796)          ![04  Noticias_11](https://github.com/user-attachments/assets/0a2f7d17-9694-4bc3-a9ea-5fd332b4c2f4)
+![04  Noticias_07](https://github.com/user-attachments/assets/c4d901c6-335b-48be-a888-3e4c75b174ac)   ![04  Noticias_08](https://github.com/user-attachments/assets/3d56b59f-407b-4c15-bc51-65901481c66f)
+![04  Noticias_09](https://github.com/user-attachments/assets/9f8c8165-10a5-4f38-9a8d-e5eca91b0a16)   ![04  Noticias_10](https://github.com/user-attachments/assets/548ad17e-04ef-4ee8-9782-4005e9d207cd)
+
+
+
+
+
 ![04  Noticias_12](https://github.com/user-attachments/assets/651390b4-2ad7-4e30-9f9f-9d11f1c37e99)          ![04  Noticias_13](https://github.com/user-attachments/assets/3a9ab354-a92f-4ae2-90b8-430dbedc7b51)
 ![04  Noticias_14](https://github.com/user-attachments/assets/a9ef2f73-7dee-4d4c-9502-3cc727c9f3a3)          ![04  Noticias_15](https://github.com/user-attachments/assets/25202bb1-ebe1-4723-82a3-db6c6a6652a3)
 **==========================================================================**
