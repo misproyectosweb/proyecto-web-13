@@ -45,11 +45,10 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 ![01  Inicio_07](https://github.com/user-attachments/assets/5961362a-4564-4df7-9a04-93923f51dce5)
 ![01  Inicio_08](https://github.com/user-attachments/assets/04fa8bb1-abbc-4eb5-b449-0fc423e5513d)
 **==========================================================================**
-
-
-
-
-
+![01  Inicio_09](https://github.com/user-attachments/assets/366b3426-c679-42b3-bd2a-62eb2ea0d799)
+![01  Inicio_10](https://github.com/user-attachments/assets/c37fcc6b-8ef6-4d8e-9134-7b1d0f58661e)
+![01  Inicio_11](https://github.com/user-attachments/assets/6974a2e9-098c-4d75-9a01-6d3e0b95d5bf)
+![01  Inicio_12](https://github.com/user-attachments/assets/2bab920f-1007-4ca1-907c-e34c71626f10)
 **==========================================================================**
 ![02  Nosotros_01](https://github.com/user-attachments/assets/3d169dc9-22c2-43f0-824e-d40b4add037d)
 **==========================================================================**
@@ -57,8 +56,10 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![02  Nosotros_03](https://github.com/user-attachments/assets/1b348025-8ab5-45f6-9b89-2cd1f10c9cec)
 **==========================================================================**
-![02  Nosotros_04](https://github.com/user-attachments/assets/075124e3-aa8d-488e-8c74-e0ac4a6b7c62)   ![02  Nosotros_05](https://github.com/user-attachments/assets/a3a8849b-d88b-4649-9dbf-5c396998e52f)
-![02  Nosotros_06](https://github.com/user-attachments/assets/213cbc21-bad4-4696-9756-383c61b31d79)   ![02  Nosotros_07](https://github.com/user-attachments/assets/a2bd85d4-3690-45df-bf7a-1e760ff3a1e7)
+![02  Nosotros_04](https://github.com/user-attachments/assets/cf8db8a8-e591-43ab-9b85-b6418c220119)
+![02  Nosotros_05](https://github.com/user-attachments/assets/b4f7e0c9-aaf3-4d3a-935f-abd194310f03)
+![02  Nosotros_06](https://github.com/user-attachments/assets/a3aba607-fb10-44da-9a0b-e1d7280a662f)
+![02  Nosotros_07](https://github.com/user-attachments/assets/d8fabb1c-ff3f-48b6-9141-868788185792)
 **==========================================================================**
 ![03  Servicios_01](https://github.com/user-attachments/assets/3f5f594c-055e-44e3-864c-3f853f784a84)
 **==========================================================================**
@@ -66,8 +67,10 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![03  Servicios_03](https://github.com/user-attachments/assets/71a769b4-8bc6-437e-b92a-c7abdea541b9)
 **==========================================================================**
-![03  Servicios_04](https://github.com/user-attachments/assets/b48f8a65-768d-4e5c-ad08-ce1167d1f67d)   ![03  Servicios_05](https://github.com/user-attachments/assets/f8c180d8-2b7e-4afd-88cf-7d10678a9c30)
-![03  Servicios_06](https://github.com/user-attachments/assets/d122dbef-ea8c-4e64-b39c-d2fb724f864e)   ![03  Servicios_07](https://github.com/user-attachments/assets/7bbbe579-af09-4e03-8f0f-861ec3e8283b)
+![03  Servicios_04](https://github.com/user-attachments/assets/cf8ea923-7570-46f7-a9ad-85079c1f62c1)
+![03  Servicios_05](https://github.com/user-attachments/assets/2178b241-084a-4782-a141-7d6e9f50497e)
+![03  Servicios_06](https://github.com/user-attachments/assets/457e6d4a-d20d-495e-94df-cc717b24f5ee)
+![03  Servicios_07](https://github.com/user-attachments/assets/23ff31d6-12f0-4244-9607-4a81df8c4e7d)
 **==========================================================================**
 ![04  Noticias_01](https://github.com/user-attachments/assets/6f1b084e-55f5-4c36-acce-cbcf40f08aaf)
 **==========================================================================**
@@ -81,11 +84,15 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![04  Noticias_06](https://github.com/user-attachments/assets/f853cf57-bde4-4a54-9e4c-8b324e4929d0)
 **==========================================================================**
-![04  Noticias_07](https://github.com/user-attachments/assets/c4d901c6-335b-48be-a888-3e4c75b174ac)   ![04  Noticias_08](https://github.com/user-attachments/assets/3d56b59f-407b-4c15-bc51-65901481c66f)
-![04  Noticias_10](https://github.com/user-attachments/assets/548ad17e-04ef-4ee8-9782-4005e9d207cd)   ![04  Noticias_11](https://github.com/user-attachments/assets/1692fc46-748a-48ce-803e-49cce250e6ad)
+![04  Noticias_07](https://github.com/user-attachments/assets/ba8383f5-2f2b-42eb-9d04-9f020777231e)
+![04  Noticias_08](https://github.com/user-attachments/assets/67a2ad68-8729-4848-8e7a-ffd05b743ff6)
+![04  Noticias_10](https://github.com/user-attachments/assets/e3ce29a4-8d92-4695-93dc-f8a178bc6cd3)
+![04  Noticias_11](https://github.com/user-attachments/assets/b1c6c1cc-eaba-4088-beae-831e563fdffb)
 **==========================================================================**
-![04  Noticias_12](https://github.com/user-attachments/assets/7899eeaa-13aa-4795-be4e-e828b1ff394f)   ![04  Noticias_13](https://github.com/user-attachments/assets/7fd3df63-e975-4e22-8826-e43b8cf493c3)
-![04  Noticias_14](https://github.com/user-attachments/assets/1bf23bc8-2b1b-4ce4-8574-10b517b328da)   ![04  Noticias_15](https://github.com/user-attachments/assets/ebdabae7-a074-4b48-9bcd-58b5de7fa370)
+![04  Noticias_12](https://github.com/user-attachments/assets/960de9a8-206b-458d-8b1d-d2d42fa0af6c)
+![04  Noticias_13](https://github.com/user-attachments/assets/e6fe2f11-a7cc-42d6-874a-efb875def5be)
+![04  Noticias_14](https://github.com/user-attachments/assets/8aaa9c34-25d7-48e7-9a97-ef4e36516626)
+![04  Noticias_15](https://github.com/user-attachments/assets/b9a2feb5-98bc-4423-a200-b00e4580184a)
 **==========================================================================**
 ![05  Contacto_01](https://github.com/user-attachments/assets/76019c54-6b4e-44c4-9b2d-233cb9aa1e1f)
 **==========================================================================**
@@ -93,8 +100,7 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![05  Contacto_03](https://github.com/user-attachments/assets/0f74639b-87d5-4804-9327-3705ec7b524d)
 **==========================================================================**
-![05  Contacto_04](https://github.com/user-attachments/assets/a6b15ea7-cd7b-4714-ba91-2ac2f1f04c68)   ![05  Contacto_05](https://github.com/user-attachments/assets/6a59c215-812f-4ad1-83ca-5f0382bbb019)
-![05  Contacto_06](https://github.com/user-attachments/assets/7278f2ad-7017-4136-863f-b278aa8da9d5)   ![05  Contacto_07](https://github.com/user-attachments/assets/209c8e2e-9333-4dc3-ac59-5c7f948946e6)
-![05  Contacto_08](https://github.com/user-attachments/assets/44dcda33-caf9-4b9b-8e2e-eaead00a5e8a)
-**==========================================================================**
-
+![05  Contacto_04](https://github.com/user-attachments/assets/a38ac07c-ef2d-4487-aa51-e5bb99204459)
+![05  Contacto_05](https://github.com/user-attachments/assets/911caa3a-6b3e-4f9d-8ea7-efcff68c6e06)
+![05  Contacto_06](https://github.com/user-attachments/assets/73e1acfb-710c-4645-9a0e-1cf1e7c28835)
+![05  Contacto_08](https://github.com/user-attachments/assets/bd57141f-f485-489a-bd30-6165d64fabe8)
