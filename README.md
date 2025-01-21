@@ -36,8 +36,6 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 **==========================================================================**
 ![01  Inicio_02](https://github.com/user-attachments/assets/43fa8271-d772-44b3-96a8-4a3eae86d8bb)
 **==========================================================================**
-![01  Inicio_03](https://github.com/user-attachments/assets/5c730e84-f7f4-4d99-80b5-05eb2a42d4bb)
-**==========================================================================**
 ![01  Inicio_04](https://github.com/user-attachments/assets/e7eb72e4-017b-412e-96fb-41247f53a35f)
 **==========================================================================**
 ![01  Inicio_05](https://github.com/user-attachments/assets/67b8edc6-4a85-46a9-8a50-3ded7e515148)
@@ -62,8 +60,6 @@ A continuación se presentan algunas imágenes del sitio web descrita anteriorme
 ![02  Nosotros_07](https://github.com/user-attachments/assets/d8fabb1c-ff3f-48b6-9141-868788185792)
 **==========================================================================**
 ![03  Servicios_01](https://github.com/user-attachments/assets/3f5f594c-055e-44e3-864c-3f853f784a84)
-**==========================================================================**
-![03  Servicios_02](https://github.com/user-attachments/assets/a27b8907-24d1-4f7d-a896-d6ddf0f8c375)
 **==========================================================================**
 ![03  Servicios_03](https://github.com/user-attachments/assets/71a769b4-8bc6-437e-b92a-c7abdea541b9)
 **==========================================================================**
