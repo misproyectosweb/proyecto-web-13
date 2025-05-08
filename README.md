@@ -1,4 +1,4 @@
-# Proyecto Web 13
+# Proyecto Web 13: clínica veterinaria
 
 Sitio web que muestra información para el cuidado de su mascota
 
